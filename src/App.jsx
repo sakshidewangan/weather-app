@@ -9,12 +9,14 @@ const App = () => {
   return (
     <div
       style={{
+        paddingTop: "40px",
+        paddingBottom: "40px",
         backgroundImage: `url(${bgImage})`,
         backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+        backgroundAttachment: "fixed",
         minHeight: "100vh",
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
       }}
     >
       <div className="weather-container">
