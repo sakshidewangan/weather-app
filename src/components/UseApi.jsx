@@ -140,7 +140,7 @@ import snow_icon from "../assets/snow.png";
 import wind_icon from "../assets/wind.png";
 import rain_icon from "../assets/rain.png";
 import { fetchBg } from "../utils/fetchBg";
-import defaultImage from "../assets/WhatsApp Image 2025-02-01 at 14.43.09_92763263.jpg";
+import defaultImage from "../assets/default.jpg";
 
 const UseApi = ({ children }) => {
   const api = "ac292fb000dad3733be375a06701cb59";
