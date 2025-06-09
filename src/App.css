@@ -6,10 +6,10 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: url("assets/bg.png") no-repeat center center fixed;
+    background: url("assets/background.jpg") no-repeat center center fixed;
     background-size: cover;
     color: #333;
-        min-height: 100vh;
+    min-height: 100vh;
     }
 
 /* Container holding both panels */
